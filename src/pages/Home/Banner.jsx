@@ -1,6 +1,6 @@
 import React from "react";
 import banner from "../../assets/image-product.png";
-import flowerImage from "../../assets/flower-pattern.png";
+// import flowerImage from "../../assets/flower-pattern.png";
 import { FaShoppingBag } from "react-icons/fa";
 
 const Banner = () => {
